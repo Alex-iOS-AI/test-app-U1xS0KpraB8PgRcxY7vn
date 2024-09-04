@@ -9,8 +9,6 @@ import { ThemedView } from '@/components/ThemedView';
 
 export default function TabTwoScreen() {
   return (
-    hmmm
-    
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#CCCCCC', dark: '#333333' }}
       headerImage={<Ionicons size={310} name="code-slash" style={styles.headerImage} />}>
