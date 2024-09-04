@@ -6,10 +6,10 @@ import { ExternalLink } from '@/components/ExternalLink';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
-fdsfsdfds
 
 export default function TabTwoScreen() {
   return (
+    hmmmm
     <ParallaxScrollView
       headerBackgroundColor={{ light: '#CCCCCC', dark: '#333333' }}
       headerImage={<Ionicons size={310} name="code-slash" style={styles.headerImage} />}>
